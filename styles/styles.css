@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+
+#title {
+    text-align: center;
+    width: 100%;
+    background-color: #C4C4C4;
+    color: #005677;
+    padding: 14px;
+}
+
+img {
+    margin-top: 40px;
+    width: 5%;
+    padding-left: 47.5%;
+}
+
+#datos {
+    margin-top: 3em;
+}
+
+h2 {
+    width: 100%;
+    background-color: #C4C4C4;
+    color: #005677;
+    padding: 4px;
+}
+
+footer {
+    text-align: center;
+    width: 100%;
+    background-color: #005677;
+    color: #ffffff;
+    padding: 1px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.datosUl {
+    font-style: italic;
+}
+
